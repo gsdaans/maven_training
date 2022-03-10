@@ -1,10 +1,10 @@
 package test.java;
 
-import main.java.fr.lernejo.Sample;
+import fr.lernejo.Sample;
 import org.junit.jupiter.api.Test;
 
-import static main.java.fr.lernejo.Sample.Operation.ADD;
-import static main.java.fr.lernejo.Sample.Operation.MULT;
+import static fr.lernejo.Sample.Operation.ADD;
+import static fr.lernejo.Sample.Operation.MULT;
 import static org.junit.jupiter.api.Assertions.*;
 
 class SampleTest {
